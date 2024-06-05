@@ -1,0 +1,23 @@
+Marius Lhôte
+Email: marius.lhote@epfl.ch | LinkedIn: linkedin.com/in/marius-lh%C3%B4te-4565812b5/
+
+Education
+Bachelor in Communication Systems | EPFL, Lausanne, Switzerland | Expected Graduation: 2025
+- Relevant coursework: Algorithm, Computer Systems, introduction to Machine Learning,
+	Nummerical methods for visual computing and machine learning
+
+Associative Experience
+- Logistics Manager, EPFL CLIC | June 2024 - Present
+- Sponsorship Manager, EPFL Nuit de la Magistrale | November 2023 - Present
+
+
+Skills
+- Programming Languages: Python, Scala, Java, GO, C
+- frameworks: Pytorch, Numpy, Matplotlib, Fyne, Javafx
+- Tools: Git, Jupiter Notebook
+
+Projects
+
+Languages
+- French: Native
+- English: Fluent
