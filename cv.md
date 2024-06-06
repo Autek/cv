@@ -6,7 +6,7 @@ Lausanne, Switzerland
 [marius.lhote@epfl.ch](mailto:marius.lhote@epfl.ch)  
 [LinkedIn: marius-lhôte-4565812b5](https://www.linkedin.com/in/marius-lhôte-4565812b5)  
 [GitHub: Autek](https://github.com/Autek)  
-![Profile Picture](picture1.jpg)
+<img src="picture1.jpg" alt="Profile Picture" width="80">
 
 ## Education
 
