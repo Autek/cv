@@ -3,20 +3,40 @@ Email: marius.lhote@epfl.ch | LinkedIn: linkedin.com/in/marius-lh%C3%B4te-456581
 
 Education
 Bachelor in Communication Systems | EPFL, Lausanne, Switzerland | Expected Graduation: 2025
-- Relevant coursework: Algorithm, Computer Systems, introduction to Machine Learning,
-	Nummerical methods for visual computing and machine learning
+- Relevant coursework: Algorithm, Computer Systems, Introduction to Machine Learning,
+	Numerical Methods for Visual Computing and Machine Learning
+- Projects: 
+	- Developed different models using PyTorch to classify images from the Fashion-MNIST dataset.
+		- Implemented a simple MLP model reaching an accuracy of 90%.
+		- Implemented a simple CNN model reaching an accuracy of 92%.
+		- Implemented a vision transformer model reaching an accuracy of 90%.
+	- Implemented linear regression, logistic regression and knn models from scratch in Python to classify the stanford dog dataset.
+	- Developed a command-line utility in C to manage images in a specific format file system.
+	- Developed a simple Memory WebApp using Scala.
+	- Implemented a simple copy of flightradar24 using Java and JavaFX.
 
 Associative Experience
-- Logistics Manager, EPFL CLIC | June 2024 - Present
 - Sponsorship Manager, EPFL Nuit de la Magistrale | November 2023 - Present
+	- Secured sponsorships worth over CHF 20'000.
+	- Established and maintained relationships with sponsors.
+	- Ensured a smooth communication between the sponsors and the rest of the team.
 
+- Logistics Manager, EPFL CLIC | June 2024 - Present
+
+Extracurricular Activities
+- Worked as a Mentor for the first-year students at EPFL.
+	- Provided guidance and support to help students adapt to university life.
+	- Organized mentoring sessions to help students with their coursework.
+	- Organised and gave a course on how to use Git.
+
+- Worked as a teaching assistant for the course "Informatique et Calcul Scientifique" at EPFL.
+	- Helped students with their homework during the exercise sessions.
+	- Responed to students' questions on the course's forum.
 
 Skills
 - Programming Languages: Python, Scala, Java, GO, C
-- frameworks: Pytorch, Numpy, Matplotlib, Fyne, Javafx
-- Tools: Git, Jupiter Notebook
-
-Projects
+- Frameworks: PyTorch, NumPy, Matplotlib, Fyne, JavaFX
+- Tools: Git, Jupiter Notebook, Google Colab
 
 Languages
 - French: Native
