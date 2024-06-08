@@ -10,14 +10,17 @@
 \usepackage{fontspec} % This is required for xelatex or lualatex
 
 % Adjust the page margins
-\usepackage[scale=0.85]{geometry}
+\usepackage[scale=0.9]{geometry}
+\renewcommand{\baselinestretch}{0.70} % Reduces line spacing
+\setlength{\hintscolumnwidth}{2.5cm} % Adjust the width as needed
+
 
 % Personal data
 \name{Marius}{Lhôte}
 \title{Curriculum Vitae}
 \address{Lausanne, Switzerland}
 \email{marius.lhote@epfl.ch}
-\social[linkedin]{marius-lhôte-4565812b5} % optional
+\social[linkedin]{marius-lhote} % optional
 \social[github]{Autek} % optional
 \photo[80pt][0.4pt]{picture1.jpg} % optional, adjust the dimensions if needed
 
@@ -33,53 +36,75 @@
   % Description
   \textit{Expected Graduation: 2025}
   \begin{itemize}
-    \item Relevant coursework: Algorithm, Computer Systems, Introduction to Machine Learning, Numerical Methods for Visual Computing and Machine Learning
-    \item Projects:
-      \begin{itemize}
-        \item Implemented different models using PyTorch to classify the Fashion-MNIST dataset reaching an accuracy of 90\%.
-        \item Command-line utility in C to manage images in a specific format file system.
-        \item Simple Memory Game WebApp using Scala.
-        \item Simple copy of flightradar24 using Java and JavaFX.
-      \end{itemize}
+	\item First-year grade average: 5.43/6
+    \item Relevant coursework: Algorithm, Computer Systems, Introduction to Machine Learning, Numerical Methods for Visual Computing and Machine Learning, Software Construction.
   \end{itemize}
+}
+
+\section{Academic Projects}
+\cventry{}{Machine Learning Projects}{Introduction to Machine Learning}{}{}{
+	\begin{itemize}
+		\item Implemented in a team of 3 a linear regression, a logistic regression, a knn classifier from scratch in Python using NumPy.
+		\item located centers and classified the Stanford Dogs dataset with an accuracy of 87\%.
+		\item Implemented in a team of 3 a MLP, a CNN and a ViT in Python using PyTorch.
+		\item classified the Fashion MNIST dataset with an accuracy of 90\%.
+    \end{itemize}
+}
+\cventry{}{Image File System}{Computer Systems}{}{}{
+	\begin{itemize}
+		\item Implemented in a team of 2 a file system in C that stores images.
+		\item Implemented a Server-Client architecture to store and retrieve images.
+		\item learned about man pages, Makefiles, software development on Linux, and HTTP.
+	\end{itemize}
+}
+\cventry{}{Copy of flightradar24}{Pratique de la Programmation Orientée Objet}{}{}{
+	\begin{itemize}
+		\item Implemented a copy of flightradar24 in Java using JavaFX in a team of 2.
+		\item learned about the Observer pattern, the MVC pattern, and how to use JavaFX.
+		\item learned how to use the OpenStreetMap API to display a map.
+		\item optimized the code to process planes data faster than real-time.
+	\end{itemize}
 }
 
 \section{Personal Projects}
 \cventry{}{\href{https://github.com/Autek/go_of_life}{Game of Life in GO}}{}{}{}{
 	\begin{itemize}
-		\item Implemented Conway's Game of Life in GO with the Fyne library.
-		\item This project taught me how to use GO and build software without guidance.
+		\item Implemented Conway's Game of Life in GO using the Fyne library.
+		\item Implemented an infinite grid that can be scrolled and zoomed.
+		\item learned to write code and think about the architecture of the code without guidance.
 	\end{itemize}
 }
 
 \section{Associative Experience}
-\cventry{Sept 2023-- \linebreak Present}{Sponsorship Manager}{EPFL Nuit de la Magistrale}{}{}{
+\cventry{November 2023-- \linebreak Present}{Sponsorship Manager}{EPFL Nuit de la Magistrale}{}{}{
   \begin{itemize}
     \item Secured sponsorships worth over CHF 20'000 increasing the event's budget by 10\%.
 	\item wrote a mailer in Python to automate the sending of personalized emails to sponsors. 
 	\item sent 1000 personalized emails to potential sponsors and received a 10\% response rate.
   \end{itemize}
 }
-\cventry{June 2024-- \linebreak Present}{Logistics Manager}{EPFL CLIC}{}{}{}
 
 \section{Teaching and Peer Support Experience}
-\cventry{Sept 2023-- \linebreak Dec 2023}{Mentor}{EPFL}{}{}{
+\cventry{September 2023-- \linebreak December 2023}{Mentor}{EPFL}{}{}{
   \begin{itemize}
-    \item Provided guidance and support to help 6 first-year students to adapt to university life.
-    \item Organized mentoring sessions to help 10 students ounce a week with their coursework.
-    \item Organized and gave a course on how to use Git. This course was given to 100 students and recorded.
+	\item was responsible for 13 first-year students.
+    \item Provided guidance and support to help students adapt to university academic life.
+    \item Organized mentoring sessions to help students with their coursework.
+    \item Organized and gave a course on how to use Git to 100 students.
   \end{itemize}
 }
-\cventry{Feb 2024-- \linebreak June 2024}{Teaching Assistant, MAN - Informatique et Calcul Scientifique}{EPFL}{}{}{
+\cventry{February 2024-- \linebreak June 2024}{Teaching Assistant, MAN - Informatique et Calcul Scientifique}{EPFL}{}{}{
   \begin{itemize}
-    \item Helped students with their homework during the exercise sessions and on the course forum.
+	\item I was the only teaching assistant in a room of 10 students.
+    \item Helped students with their homework during every exercise sessions,
+	\item Responded to 20\% of the students' questions on the course forum.
   \end{itemize}
 }
 
 \section{Skills}
 \cvitem{Programming Languages}{Python, Scala, Java, GO, C}
 \cvitem{Frameworks}{PyTorch, NumPy, Matplotlib, Fyne, JavaFX, smtplib}
-\cvitem{Tools}{Git, Jupyter Notebook, Google Colab, yaml, Latex}
+\cvitem{Tools}{Git, Jupyter Notebook, Google Colab, yaml, Latex, Linux}
 
 \section{Languages}
 \cvitemwithcomment{French}{Native}{}
