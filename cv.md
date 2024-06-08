@@ -5,7 +5,7 @@
 - **Email**: marius.lhote@epfl.ch
 - **LinkedIn**: [marius-lhote](https://linkedin.com/in/marius-lhote)
 - **GitHub**: [Autek](https://github.com/Autek)
-- ![photo](picture1.jpg)
+- <img src="picture1.jpg" alt="Profile Picture" width="80">
 
 ## Education
 **2021–Present**  
