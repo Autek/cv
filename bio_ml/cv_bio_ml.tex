@@ -10,8 +10,8 @@
 \usepackage{fontspec} % This is required for xelatex or lualatex
 
 % Adjust the page margins
-\usepackage[scale=0.9]{geometry}
-\renewcommand{\baselinestretch}{0.70} % Reduces line spacing
+\usepackage[scale=0.95]{geometry}
+\renewcommand{\baselinestretch}{0.90} % Reduces line spacing
 \setlength{\hintscolumnwidth}{2.5cm} % Adjust the width as needed
 
 
@@ -32,12 +32,19 @@
 \makecvtitle
 
 \section{Education}
+
+\cventry{2017--2021}{Maturité Gymnasiale - OS Biologie et Chimie}{Collège Claparède}{Genève, Switzerland}{}{
+	% Description
+	\begin{itemize}
+		\item Relevant coursework: Chemistry, Biology.
+	\end{itemize}
+}
 \cventry{2021--Present}{Bachelor in Communication Systems}{EPFL}{Lausanne, Switzerland}{}{
   % Description
   \textit{Expected Graduation: 2025}
   \begin{itemize}
 	\item First-year grade average: 5.43/6
-    \item Relevant coursework: Algorithm, Computer Systems, Introduction to Machine Learning, Numerical Methods for Visual Computing and Machine Learning, Software Construction.
+	\item Relevant coursework: Introduction to Machine Learning, Numerical Methods for Visual Computing and Machine Learning, Signal Processing, Analysis(I, II, III, IV), Probability and Statistics, Algorithm, electromagnetism.
   \end{itemize}
 }
 
@@ -49,13 +56,6 @@
 		\item Implemented in a team of 3 a MLP, a CNN and a ViT in Python using PyTorch.
 		\item classified the Fashion MNIST dataset with an accuracy of 90\%.
     \end{itemize}
-}
-\cventry{}{Image File System}{Computer Systems}{}{}{
-	\begin{itemize}
-		\item Implemented in a team of 2 a file system in C that stores images.
-		\item Implemented a Server-Client architecture to store and retrieve images.
-		\item learned about man pages, Makefiles, software development on Linux, and HTTP.
-	\end{itemize}
 }
 \cventry{}{Copy of flightradar24}{Pratique de la Programmation Orientée Objet}{}{}{
 	\begin{itemize}
@@ -103,8 +103,8 @@
 
 \section{Skills}
 \cvitem{Programming Languages}{Python, Scala, Java, GO, C}
-\cvitem{Frameworks}{PyTorch, NumPy, Matplotlib, Fyne, JavaFX, smtplib}
-\cvitem{Tools}{Git, Jupyter Notebook, Google Colab, yaml, LaTeX, Linux}
+\cvitem{Frameworks}{PyTorch, NumPy, Matplotlib, Scikit-learn}
+\cvitem{Tools}{Git, Jupyter Notebook, Google Colab, yaml, LaTeX}
 
 \section{Languages}
 \cvitemwithcomment{French}{Native}{}

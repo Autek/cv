@@ -1,85 +1,67 @@
-# Curriculum Vitae
+# Marius Lhôte
 
-## Marius Lhôte
-- **Location**: Lausanne, Switzerland
-- **Email**: marius.lhote@epfl.ch
-- **LinkedIn**: [marius-lhote](https://linkedin.com/in/marius-lhote)
-- **GitHub**: [Autek](https://github.com/Autek)
-- ![photo](picture1.jpg)
+**Curriculum Vitae**
+
+Lausanne, Switzerland  
+[marius.lhote@epfl.ch](mailto:marius.lhote@epfl.ch)  
+[LinkedIn: marius-lhôte-4565812b5](https://www.linkedin.com/in/marius-lhôte-4565812b5)  
+[GitHub: Autek](https://github.com/Autek)  
+<img src="picture1.jpg" alt="Profile Picture" width="80">
 
 ## Education
-**2021–Present**  
-**Bachelor in Communication Systems**  
-*EPFL, Lausanne, Switzerland*  
+
+**Bachelor in Communication Systems, EPFL, Lausanne, Switzerland**  
+*2021--Present*  
 *Expected Graduation: 2025*
 
-- First-year grade average: 5.43/6
-- Relevant coursework: Algorithm, Computer Systems, Introduction to Machine Learning, Numerical Methods for Visual Computing and Machine Learning, Software Construction.
-
-## Academic Projects
-**Machine Learning Projects**  
-*Introduction to Machine Learning*
-
-- Implemented in a team of 3 a linear regression, a logistic regression, a knn classifier from scratch in Python using NumPy.
-- Located centers and classified the Stanford Dogs dataset with an accuracy of 87%.
-- Implemented in a team of 3 a MLP, a CNN and a ViT in Python using PyTorch.
-- Classified the Fashion MNIST dataset with an accuracy of 90%.
-
-**Image File System**  
-*Computer Systems*
-
-- Implemented in a team of 2 a file system in C that stores images.
-- Implemented a Server-Client architecture to store and retrieve images.
-- Learned about man pages, Makefiles, software development on Linux, and HTTP.
-
-**Copy of flightradar24**  
-*Pratique de la Programmation Orientée Objet*
-
-- Implemented a copy of flightradar24 in Java using JavaFX in a team of 2.
-- Learned about the Observer pattern, the MVC pattern, and how to use JavaFX.
-- Learned how to use the OpenStreetMap API to display a map.
-- Optimized the code to process planes data faster than real-time.
+- Relevant coursework: Algorithm, Computer Systems, Introduction to Machine Learning, Numerical Methods for Visual Computing and Machine Learning
+- Projects:
+  - Implemented different models using PyTorch to classify the Fashion-MNIST dataset reaching an accuracy of 90%.
+  - Developed a command-line utility in C to manage images in a specific format file system.
+  - Created a simple Memory Game WebApp using Scala.
+  - Developed a simple copy of flightradar24 using Java and JavaFX.
 
 ## Personal Projects
+
 **[Game of Life in GO](https://github.com/Autek/go_of_life)**
 
-- Implemented Conway's Game of Life in GO using the Fyne library.
-- Implemented an infinite grid that can be scrolled and zoomed.
-- Learned to write code and think about the architecture of the code without guidance.
+- Implemented Conway's Game of Life in GO with the Fyne library.
+- Learned GO and built software independently.
 
 ## Associative Experience
-**November 2023–Present**  
-**Sponsorship Manager**  
-*EPFL Nuit de la Magistrale*
 
-- Secured sponsorships worth over CHF 20,000 increasing the event's budget by 10%.
-- Wrote a mailer in Python to automate the sending of personalized emails to sponsors.
-- Sent 1000 personalized emails to potential sponsors and received a 10% response rate.
+**Sponsorship Manager, EPFL Nuit de la Magistrale**  
+*Sept 2023--Present*
+
+- Secured sponsorships worth over CHF 20,000, increasing the event's budget by 10%.
+- Developed a mailer in Python to automate sending personalized emails to sponsors.
+- Sent 1,000 personalized emails to potential sponsors, achieving a 10% response rate.
+
+**Logistics Manager, EPFL CLIC**  
+*June 2024--Present*
 
 ## Teaching and Peer Support Experience
-**September 2023–December 2023**  
-**Mentor**  
-*EPFL*
 
-- Was responsible for 13 first-year students.
-- Provided guidance and support to help students adapt to university academic life.
-- Organized mentoring sessions to help students with their coursework.
-- Organized and gave a course on how to use Git to 100 students.
+**Mentor, EPFL**  
+*Sept 2023--Dec 2023*
 
-**February 2024–June 2024**  
-**Teaching Assistant, MAN - Informatique et Calcul Scientifique**  
-*EPFL*
+- Provided guidance and support to help 6 first-year students adapt to university life.
+- Organized mentoring sessions to assist 10 students weekly with their coursework.
+- Organized and conducted a Git usage course for 100 students, which was recorded.
 
-- I was the only teaching assistant in a room of 10 students.
-- Helped students with their homework during every exercise session.
-- Responded to 20% of the students' questions on the course forum.
+**Teaching Assistant, MAN - Informatique et Calcul Scientifique, EPFL**  
+*Feb 2024--June 2024*
+
+- Assisted students with their homework during exercise sessions and on the course forum.
 
 ## Skills
+
 - **Programming Languages**: Python, Scala, Java, GO, C
 - **Frameworks**: PyTorch, NumPy, Matplotlib, Fyne, JavaFX, smtplib
-- **Tools**: Git, Jupyter Notebook, Google Colab, yaml, LaTeX, Linux
+- **Tools**: Git, Jupyter Notebook, Google Colab, YAML, LaTeX
 
 ## Languages
+
 - **French**: Native
 - **English**: Fluent
 
