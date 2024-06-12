@@ -1,12 +1,11 @@
-# Marius Lhôte
+# Curriculum Vitae
 
-**Curriculum Vitae**
-
-Lausanne, Switzerland  
-[marius.lhote@epfl.ch](mailto:marius.lhote@epfl.ch)  
-[LinkedIn: marius-lhôte-4565812b5](https://www.linkedin.com/in/marius-lhôte-4565812b5)  
-[GitHub: Autek](https://github.com/Autek)  
-<img src="picture1.jpg" alt="Profile Picture" width="80">
+## Marius Lhôte
+- **Location**: Lausanne, Switzerland
+- **Email**: marius.lhote@epfl.ch
+- **LinkedIn**: [marius-lhote](https://linkedin.com/in/marius-lhote)
+- **GitHub**: [Autek](https://github.com/Autek)
+- <img src="picture1.jpg" alt="Profile Picture" width="80">
 
 ## Education
 
